@@ -100,7 +100,7 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-ddeploy:
+deploy:
   type: xinzhai
   token: yr2Yfx8yB2Z2LNOmxoFED6Nz
   project_id: prj_TZeLVnIm2p2RB2dCIBBmQOCUNHyG
